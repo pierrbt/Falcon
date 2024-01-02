@@ -3,4 +3,6 @@ dist
 out
 *.log*
 pnpm-lock.yaml
+build
+.idea
 
